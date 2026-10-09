@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is part of my 30 Days of Web Development Challenge (Day 4).
+This project is part of my 30 Projects of JavaScript Challenge .
 I built a classic Rock Paper Scissors game** using **HTML, CSS, and JavaScript, focusing on DOM manipulation, game logic, and responsive UI design.
 
 The game allows users to play against the computer with real-time score updates and visual feedback.

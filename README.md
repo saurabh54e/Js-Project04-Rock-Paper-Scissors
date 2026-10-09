@@ -1,6 +1,6 @@
-# Rock Paper Scissors — Day 4 of 30 Days Challenge
+# Rock Paper Scissors — Project 4 of my 30  JavaScript Projects Challenge.
 
-🔗 Live Demo: https://saurabh54e.github.io/Js-Day04-Rock-Paper-Scissors/
+🔗 Live Demo: https://saurabh54e.github.io/Js-Project04-Rock-Paper-Scissors/
 
 ---
 

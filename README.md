@@ -49,13 +49,13 @@ The application uses event-driven programming and DOM manipulation to manage gam
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project04-Rock-Paper-Scissors/)
+(https://saurabh54e.github.io/Js-Project04-Rock-Paper-Scissors/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project04-Rock-Paper-Scissors)
+(https://github.com/saurabh54e/Js-Project04-Rock-Paper-Scissors)
 
 ---
 
